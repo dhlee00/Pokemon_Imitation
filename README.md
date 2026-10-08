@@ -2,6 +2,8 @@
 
 인기게임인 포켓몬스터를 모작한 게임입니다.
 
+<img width="1920" height="1080" alt="스크린샷 2026-10-08 105854" src="https://github.com/user-attachments/assets/3f06020b-9acd-4b01-b768-ce386cca3cf6" />
+
 ---
 
 📺 [시연 영상 (YouTube)](링크)<br>
