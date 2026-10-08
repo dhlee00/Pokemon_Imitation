@@ -7,7 +7,7 @@
 ---
 
 📺 [시연 영상 (YouTube)](링크)<br>
-🎮 [빌드 파일 다운로드 (Google Drive)](링크)<br>
+🎮 [빌드 파일 다운로드 (Google Drive)](https://drive.google.com/file/d/1_Wsr3XtI5ea3kRhgjeTB3sUYH7AQzini/view?usp=drive_link)<br>
 📄 [기획서](링크)
 
 ---
